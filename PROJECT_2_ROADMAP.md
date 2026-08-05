@@ -1,4 +1,4 @@
-# Project 2 (Next Up): AI Transformation Lifecycle Framework
+remove project_2_roadmap.md# Project 2 (Next Up): AI Transformation Lifecycle Framework
 
 A companion portfolio piece that pairs with the benchmarking framework: instead of benchmarking one program dimension, it walks the full lifecycle of an AI transformation initiative — showing you can operate across the whole arc, not just one phase.
 
