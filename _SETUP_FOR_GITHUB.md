@@ -1,4 +1,4 @@
-# Setup Instructions for GitHub
+remove setup instruction# Setup Instructions for GitHub
 
 This document walks you through pushing this portfolio project to GitHub **TODAY**.
 
