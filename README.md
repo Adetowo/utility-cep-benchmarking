@@ -301,22 +301,9 @@ A: Phase 2 could model an AI-transformation roadmap using the same benchmarking 
 **Q: Why these 9 utilities?**  
 A: Mix of regulatory environments (CPUC, non-CPUC), utility types (electric, water, gas), and program maturity (best-in-class to developing). Chosen for relevance to EBMUD's peer set.
 
----
 
-## About
-
-[Your Name] — Management Consultant transitioning into AI and data transformation consulting roles. This project demonstrates ability to take ambiguous business problems, structure them into measurable frameworks, and deliver data-driven recommendations.
-
-[**LinkedIn**](#) · [**Portfolio**](#) · [**Email**](#)
-
----
-
-## 📄 License
 
 This repository contains analysis of publicly available data. The methodology and code are provided as-is for educational and portfolio purposes.
 
 ---
 
-**Last Updated:** November 2025  
-**Data Period:** October 2024 – November 2025  
-**Status:** Production-ready, actively maintained
