@@ -24,7 +24,7 @@ EBMUD's Contract Equity Program has sound foundational design (4.38/5.0) but fac
 - Existing answer: Qualitative assessments, isolated KPIs, no consistent framework
 - Need: Evidence-based benchmarking to identify specific improvement priorities and peer-proven solutions
 
-**Our Approach:**
+**Approach:**
 - Designed a 5-dimension, 33-indicator evaluation rubric measuring program maturity
 - Scored 9 utilities (EBMUD + 8 peers) against the rubric using only public data
 - Benchmarked EBMUD against both peer average and individual peer practices
