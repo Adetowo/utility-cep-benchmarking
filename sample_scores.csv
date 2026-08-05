@@ -1,0 +1,166 @@
+organization,dimension,indicator_id,score_0_to_3
+Target Utility,Design & Structure,DE_01,3
+Target Utility,Design & Structure,DE_02,2
+Target Utility,Design & Structure,DE_03,3
+Target Utility,Design & Structure,DE_04,3
+Target Utility,Design & Structure,DE_05,3
+Target Utility,Design & Structure,DE_06,2
+Target Utility,Design & Structure,DE_07,3
+Target Utility,Design & Structure,DE_08,2
+Target Utility,Implementation & Operations,IM_01,2
+Target Utility,Implementation & Operations,IM_02,2
+Target Utility,Implementation & Operations,IM_03,2
+Target Utility,Implementation & Operations,IM_04,3
+Target Utility,Implementation & Operations,IM_05,2
+Target Utility,Implementation & Operations,IM_06,2
+Target Utility,Implementation & Operations,IM_07,2
+Target Utility,Outreach & Accessibility,OU_01,2
+Target Utility,Outreach & Accessibility,OU_02,2
+Target Utility,Outreach & Accessibility,OU_03,3
+Target Utility,Outreach & Accessibility,OU_04,2
+Target Utility,Outreach & Accessibility,OU_05,2
+Target Utility,Outreach & Accessibility,OU_06,3
+Target Utility,Outreach & Accessibility,OU_07,1
+Target Utility,Outreach & Accessibility,OU_08,2
+Target Utility,Outreach & Accessibility,OU_09,2
+Target Utility,Program Outcomes,PR_01,3
+Target Utility,Program Outcomes,PR_02,2
+Target Utility,Program Outcomes,PR_03,3
+Target Utility,Program Outcomes,PR_04,3
+Target Utility,Program Outcomes,PR_05,3
+Target Utility,Economic & Community Impact,EC_01,0
+Target Utility,Economic & Community Impact,EC_02,1
+Target Utility,Economic & Community Impact,EC_03,0
+Target Utility,Economic & Community Impact,EC_04,0
+Peer A,Design & Structure,DE_01,2
+Peer A,Design & Structure,DE_02,2
+Peer A,Design & Structure,DE_03,3
+Peer A,Design & Structure,DE_04,3
+Peer A,Design & Structure,DE_05,2
+Peer A,Design & Structure,DE_06,3
+Peer A,Design & Structure,DE_07,2
+Peer A,Design & Structure,DE_08,3
+Peer A,Implementation & Operations,IM_01,2
+Peer A,Implementation & Operations,IM_02,3
+Peer A,Implementation & Operations,IM_03,3
+Peer A,Implementation & Operations,IM_04,3
+Peer A,Implementation & Operations,IM_05,3
+Peer A,Implementation & Operations,IM_06,3
+Peer A,Implementation & Operations,IM_07,3
+Peer A,Outreach & Accessibility,OU_01,2
+Peer A,Outreach & Accessibility,OU_02,2
+Peer A,Outreach & Accessibility,OU_03,2
+Peer A,Outreach & Accessibility,OU_04,3
+Peer A,Outreach & Accessibility,OU_05,2
+Peer A,Outreach & Accessibility,OU_06,3
+Peer A,Outreach & Accessibility,OU_07,2
+Peer A,Outreach & Accessibility,OU_08,2
+Peer A,Outreach & Accessibility,OU_09,3
+Peer A,Program Outcomes,PR_01,3
+Peer A,Program Outcomes,PR_02,3
+Peer A,Program Outcomes,PR_03,3
+Peer A,Program Outcomes,PR_04,3
+Peer A,Program Outcomes,PR_05,3
+Peer A,Economic & Community Impact,EC_01,1
+Peer A,Economic & Community Impact,EC_02,2
+Peer A,Economic & Community Impact,EC_03,3
+Peer A,Economic & Community Impact,EC_04,1
+Peer B,Design & Structure,DE_01,3
+Peer B,Design & Structure,DE_02,3
+Peer B,Design & Structure,DE_03,3
+Peer B,Design & Structure,DE_04,3
+Peer B,Design & Structure,DE_05,3
+Peer B,Design & Structure,DE_06,3
+Peer B,Design & Structure,DE_07,3
+Peer B,Design & Structure,DE_08,3
+Peer B,Implementation & Operations,IM_01,3
+Peer B,Implementation & Operations,IM_02,2
+Peer B,Implementation & Operations,IM_03,3
+Peer B,Implementation & Operations,IM_04,3
+Peer B,Implementation & Operations,IM_05,3
+Peer B,Implementation & Operations,IM_06,3
+Peer B,Implementation & Operations,IM_07,2
+Peer B,Outreach & Accessibility,OU_01,3
+Peer B,Outreach & Accessibility,OU_02,2
+Peer B,Outreach & Accessibility,OU_03,2
+Peer B,Outreach & Accessibility,OU_04,3
+Peer B,Outreach & Accessibility,OU_05,3
+Peer B,Outreach & Accessibility,OU_06,3
+Peer B,Outreach & Accessibility,OU_07,3
+Peer B,Outreach & Accessibility,OU_08,3
+Peer B,Outreach & Accessibility,OU_09,3
+Peer B,Program Outcomes,PR_01,3
+Peer B,Program Outcomes,PR_02,3
+Peer B,Program Outcomes,PR_03,3
+Peer B,Program Outcomes,PR_04,2
+Peer B,Program Outcomes,PR_05,3
+Peer B,Economic & Community Impact,EC_01,3
+Peer B,Economic & Community Impact,EC_02,3
+Peer B,Economic & Community Impact,EC_03,3
+Peer B,Economic & Community Impact,EC_04,3
+Peer C,Design & Structure,DE_01,2
+Peer C,Design & Structure,DE_02,3
+Peer C,Design & Structure,DE_03,2
+Peer C,Design & Structure,DE_04,2
+Peer C,Design & Structure,DE_05,2
+Peer C,Design & Structure,DE_06,2
+Peer C,Design & Structure,DE_07,3
+Peer C,Design & Structure,DE_08,3
+Peer C,Implementation & Operations,IM_01,2
+Peer C,Implementation & Operations,IM_02,0
+Peer C,Implementation & Operations,IM_03,2
+Peer C,Implementation & Operations,IM_04,2
+Peer C,Implementation & Operations,IM_05,2
+Peer C,Implementation & Operations,IM_06,2
+Peer C,Implementation & Operations,IM_07,2
+Peer C,Outreach & Accessibility,OU_01,3
+Peer C,Outreach & Accessibility,OU_02,1
+Peer C,Outreach & Accessibility,OU_03,2
+Peer C,Outreach & Accessibility,OU_04,3
+Peer C,Outreach & Accessibility,OU_05,2
+Peer C,Outreach & Accessibility,OU_06,2
+Peer C,Outreach & Accessibility,OU_07,2
+Peer C,Outreach & Accessibility,OU_08,1
+Peer C,Outreach & Accessibility,OU_09,2
+Peer C,Program Outcomes,PR_01,1
+Peer C,Program Outcomes,PR_02,3
+Peer C,Program Outcomes,PR_03,2
+Peer C,Program Outcomes,PR_04,3
+Peer C,Program Outcomes,PR_05,2
+Peer C,Economic & Community Impact,EC_01,2
+Peer C,Economic & Community Impact,EC_02,1
+Peer C,Economic & Community Impact,EC_03,1
+Peer C,Economic & Community Impact,EC_04,2
+Peer D,Design & Structure,DE_01,3
+Peer D,Design & Structure,DE_02,1
+Peer D,Design & Structure,DE_03,2
+Peer D,Design & Structure,DE_04,2
+Peer D,Design & Structure,DE_05,3
+Peer D,Design & Structure,DE_06,2
+Peer D,Design & Structure,DE_07,2
+Peer D,Design & Structure,DE_08,2
+Peer D,Implementation & Operations,IM_01,1
+Peer D,Implementation & Operations,IM_02,2
+Peer D,Implementation & Operations,IM_03,1
+Peer D,Implementation & Operations,IM_04,3
+Peer D,Implementation & Operations,IM_05,1
+Peer D,Implementation & Operations,IM_06,2
+Peer D,Implementation & Operations,IM_07,1
+Peer D,Outreach & Accessibility,OU_01,1
+Peer D,Outreach & Accessibility,OU_02,2
+Peer D,Outreach & Accessibility,OU_03,2
+Peer D,Outreach & Accessibility,OU_04,3
+Peer D,Outreach & Accessibility,OU_05,2
+Peer D,Outreach & Accessibility,OU_06,1
+Peer D,Outreach & Accessibility,OU_07,2
+Peer D,Outreach & Accessibility,OU_08,2
+Peer D,Outreach & Accessibility,OU_09,2
+Peer D,Program Outcomes,PR_01,2
+Peer D,Program Outcomes,PR_02,3
+Peer D,Program Outcomes,PR_03,2
+Peer D,Program Outcomes,PR_04,2
+Peer D,Program Outcomes,PR_05,3
+Peer D,Economic & Community Impact,EC_01,2
+Peer D,Economic & Community Impact,EC_02,1
+Peer D,Economic & Community Impact,EC_03,2
+Peer D,Economic & Community Impact,EC_04,1

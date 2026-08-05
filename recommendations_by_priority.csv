@@ -1,0 +1,7 @@
+Priority,Dimension,Gap_Points,EBMUD_Score,Peer_Avg_Score,Recommendation,Peer_Examples,Implementation_Complexity,Estimated_Timeline
+1,Economic & Community Impact,-2.45,1.25,3.70,Commission Independent Economic Impact Study,PG&E (UCLA partnership); SCE (independent economist); SDG&E (Beacon Economics),High,6-12 months
+2,Outreach & Accessibility,-0.57,3.70,4.27,Establish Supplier Advisory Council + Quarterly Professional Development Series,SCE (98-member council); SDG&E (standing council); PG&E (22 workshops annually),Medium,3-6 months
+3,Implementation & Operations,-0.74,3.57,4.31,Expand Dedicated Staffing (add data analyst and outreach specialist),WSSC Water (6 FTE); PG&E (8+ FTE); SCE (10 FTE),High,Budget dependent
+3,Implementation & Operations,-0.74,3.57,4.31,Implement Real-Time Tracking Dashboard,PG&E (SupplierOne platform); SCE (enterprise system); SDG&E (real-time dashboards),High,3-6 months
+4,Program Outcomes,-0.13,4.33,4.46,Enhance Outcomes Reporting - 5-year trends and drill-down analytics,PG&E (5-year visual dashboards); SCE (visual analytics),Low,1-2 months
+5,Design & Structure,+0.06,4.38,4.35,Commission Disparity Study (optional; already strong in this area),WSSC Water (2022 disparity study); Caltrans (2-3 year cycle),High,6-9 months
