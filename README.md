@@ -6,7 +6,7 @@ A comprehensive benchmarking analysis of East Bay Municipal Utility District's s
 
 ---
 
-## 📊 Quick Summary
+Quick Summary
 
 | Metric | Value |
 |---|---|
@@ -20,9 +20,9 @@ A comprehensive benchmarking analysis of East Bay Municipal Utility District's s
 
 ### Key Findings
 
-✅ **Strengths:** EBMUD has solid program design (4.38/5.0), exceeding peer average  
-❌ **Critical Gap:** Economic & Community Impact measurement (1.25/5.0) — 2.45 points below peer average  
-⚠️ **Secondary Gaps:** Implementation & Operations (-0.74 pts), Outreach & Accessibility (-0.57 pts)
+ **Strengths:** EBMUD has solid program design (4.38/5.0), exceeding peer average  
+ **Critical Gap:** Economic & Community Impact measurement (1.25/5.0) — 2.45 points below peer average  
+ **Secondary Gaps:** Implementation & Operations (-0.74 pts), Outreach & Accessibility (-0.57 pts)
 
 ### Top Recommendations (Priority Order)
 
@@ -32,23 +32,7 @@ A comprehensive benchmarking analysis of East Bay Municipal Utility District's s
 
 ---
 
-## 🎯 Who This Is For
 
-### **Google Data Analytics Candidates**
-This demonstrates:
-- ✅ Finding and wrangling real public data (CPUC filings, annual reports)
-- ✅ Designing a replicable scoring framework (0–3 scale, normalized to 0–5)
-- ✅ Comparative analysis at scale (9 utilities, 5 dimensions, 33 indicators)
-- ✅ Python for data transformation (pandas, matplotlib)
-- ✅ Communicating findings clearly to stakeholders
-
-### **Artefact AI / Consulting Candidates**
-This demonstrates:
-- ✅ Taking an ambiguous problem and building a measurable framework
-- ✅ Executing a multi-phase engagement: discovery → analysis → benchmarking → recommendations
-- ✅ Identifying gaps and translating them into actionable, peer-sourced recommendations
-- ✅ Understanding organizational maturity and performance drivers
-- ✅ Consulting-quality documentation and narrative
 
 ---
 
@@ -78,7 +62,7 @@ ebmud-cep-benchmarking/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. View the Analysis (No Setup Required)
 ```bash
@@ -112,7 +96,7 @@ streamlit run scripts/dashboard.py
 
 ---
 
-## 📈 What the Data Shows
+##  What the Data Shows
 
 ### Dimension Scores (0–5 Scale)
 
@@ -121,7 +105,7 @@ streamlit run scripts/dashboard.py
 | Design & Structure | 4.38 | 4.35 | +0.03 | ✓ Strength |
 | Implementation & Operations | 3.57 | 4.31 | **-0.74** | ✗ Gap |
 | Outreach & Accessibility | 3.70 | 4.27 | **-0.57** | ✗ Gap |
-| Program Outcomes | 4.33 | 4.46 | -0.13 | ⚠️ Slight Gap |
+| Program Outcomes | 4.33 | 4.46 | -0.13 |  Slight Gap |
 | **Economic & Community Impact** | **1.25** | **3.70** | **-2.45** | **✗ Critical Gap** |
 
 ### Utility Rankings (Overall Score)
@@ -139,7 +123,7 @@ streamlit run scripts/dashboard.py
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### Gap Analysis: Why EBMUD Lags
 
@@ -180,7 +164,7 @@ Each recommendation is grounded in what a specific peer actually does:
 
 ---
 
-## 📊 Methodology Overview
+## Methodology Overview
 
 ### The Framework
 
@@ -240,7 +224,7 @@ All scores are based exclusively on publicly available documentation:
 
 ---
 
-## 💡 Use Cases
+## Use Cases
 
 ### For **Analysts** & **Data Professionals**
 - Study a replicable framework for scoring uneven data sources
@@ -262,7 +246,7 @@ All scores are based exclusively on publicly available documentation:
 
 ---
 
-## 🔧 Technical Stack
+## Technical Stack
 
 | Component | Technology | Why |
 |---|---|---|
@@ -274,7 +258,7 @@ All scores are based exclusively on publicly available documentation:
 
 ---
 
-## 📝 Repository Files Summary
+## Repository Files Summary
 
 | File | Purpose | Audience |
 |---|---|---|
@@ -288,7 +272,7 @@ All scores are based exclusively on publicly available documentation:
 
 ---
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 | Skill | Evidence |
 |---|---|
@@ -303,7 +287,7 @@ All scores are based exclusively on publicly available documentation:
 
 ---
 
-## ❓ FAQ
+##  FAQ
 
 **Q: Is this real data or synthetic?**  
 A: Real. All utility names, scores, and findings are based on publicly available CPUC filings, annual reports, and corporate websites. No confidential information is included.
@@ -319,9 +303,9 @@ A: Mix of regulatory environments (CPUC, non-CPUC), utility types (electric, wat
 
 ---
 
-## 👤 About
+## About
 
-[Your Name] — Data analyst and operations strategist transitioning into data transformation and consulting roles. This project demonstrates ability to take ambiguous business problems, structure them into measurable frameworks, and deliver data-driven recommendations.
+[Your Name] — Management Consultant transitioning into AI and data transformation consulting roles. This project demonstrates ability to take ambiguous business problems, structure them into measurable frameworks, and deliver data-driven recommendations.
 
 [**LinkedIn**](#) · [**Portfolio**](#) · [**Email**](#)
 
